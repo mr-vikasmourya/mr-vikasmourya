@@ -13,7 +13,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-gzvikash786@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gzvikash786@gmail.com)](mailto:husainbw123@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Husain_Bw-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gzvikash786/)](linkedin.com/in/vikas-mourya-6b2799204)
+[![Linkedin Badge](https://img.shields.io/badge/-vikash_mo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gzvikash786/)](linkedin.com/in/vikas-mourya-6b2799204)
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gzvikash786&label=Profile%20views&color=0e75b6&style=flat" alt="gzvikash786" /> </p>
