@@ -16,7 +16,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Husain_Bw-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gzvikash786/)](linkedin.com/in/vikas-mourya-6b2799204)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=husainbw786&label=Profile%20views&color=0e75b6&style=flat" alt="husainbw786" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gzvikash786&label=Profile%20views&color=0e75b6&style=flat" alt="gzvikash786" /> </p>
 
 ---
 
@@ -26,22 +26,7 @@
 
 
 
----
-<a href="https://leetcode.com/husain_bw/"><img width="48%" src="https://leetcode.card.workers.dev/husain_bw?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husainbw786&theme=dark&layout=compact&align=right&width=40%)](https://github.com/husainbw786/github-readme-stats)
- 
-
- <hr>
- 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=husainbw786&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats) 
-<!--
-![Husain's GitHub stats](https://github-readme-stats.vercel.app/api?username=husainbw786&theme=dark&show_icons=true)      
--->
-<!--
-**Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Visitor](https://hit.yhype.me/github/profile?user_id=45698122)
--->
 
 
 
